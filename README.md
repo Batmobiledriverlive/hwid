@@ -1,1 +1,1 @@
-# hwid
+hwids
